@@ -1,0 +1,14 @@
+*{
+	margin: 10;
+	padding: 50px;
+	background: #000;
+}
+
+.red{
+	background: red !important;
+}
+
+.green{
+	background: green;
+}
+
